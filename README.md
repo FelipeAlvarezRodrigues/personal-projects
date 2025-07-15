@@ -2,20 +2,15 @@
 
 This repository contains a collection of my personal and educational projects. It includes code and documentation related to:
 
+- Data engineering
+- Data analyse
+- Cloud Computing
 - Python scripts and automation
 - SQL
 - Docker setups and containers
 - Git
-- Data analysis with Pandas and Power BI
+- Power BI
 - Linux server setup and tools
-
-## 📁 Structure
-
-- `python/` – Python scripts and small tools
-- `docker/` – Docker Compose files and container setups
-- `sql/` – 
-- `server/` – Linux configurations and shell scripts
-- `powerbi/` – Reports and data visualizations
 
 ## 🚀 Purpose
 
@@ -30,6 +25,7 @@ This repository serves as my personal lab for learning, practicing, and showcasi
 - Ubuntu Server
 - Airflow
 - Git
+- Azure
 
 ## 📬 Contact
 
